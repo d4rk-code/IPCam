@@ -1,0 +1,4 @@
+#Wed Jun 10 01:45:15 IST 2026
+base.0=/home/junk/projects/sec/IPCam/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

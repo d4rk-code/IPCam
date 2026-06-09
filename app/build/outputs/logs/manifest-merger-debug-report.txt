@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:1:1-19:12
+INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:1:1-19:12
+INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:1:1-19:12
+INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:1:1-19:12
+	package
+		INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:2:2-61
+	android:name
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:2:19-59
+uses-permission#android.permission.INTERNET
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:3:2-63
+	android:name
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:3:19-61
+uses-feature#android.hardware.camera
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:4:2-56
+	android:name
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:4:16-54
+application
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:5:5-17:19
+INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:5:5-17:19
+	android:extractNativeLibs
+		INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:6:9-30
+activity#com.ma.ipcam.MainActivity
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:7:9-16:20
+	android:exported
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:9:13-36
+	android:name
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:8:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
+INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/junk/projects/sec/IPCam/app/src/main/AndroidManifest.xml
