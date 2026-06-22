@@ -1,0 +1,3 @@
+/home/junk/projects/sec/IPCam/CV/build/CMakeFiles/app.dir
+/home/junk/projects/sec/IPCam/CV/build/CMakeFiles/edit_cache.dir
+/home/junk/projects/sec/IPCam/CV/build/CMakeFiles/rebuild_cache.dir
